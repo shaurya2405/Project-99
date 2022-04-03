@@ -1,0 +1,32 @@
+.copy_right_footer {
+position: fixed;    
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: white;
+}
+
+body {
+background-color: rgb(228, 226, 219);
+}
+
+h1 {
+font-family: cursive;
+font-style: italic;
+font-weight: bold;  
+}
+
+h4 {
+color: red;    
+}
+
+img {
+width: 600px;
+border-radius: 5px;
+padding: 20px;
+box-shadow: 0 6px 8px 0 rgb(2, 2, 0, 0.2);
+}
+
+img:hover {
+border-radius: 140px;    
+}
